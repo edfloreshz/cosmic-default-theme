@@ -3,11 +3,11 @@
     light: (
         name: "Cosmic Light",
         path: "Cosmic-Light.ron",
-        wallpaper: "kate-hazen-unleash-your-robot-blue.png",
+        wallpaper: "",
     ),
     dark: (
         name: "Cosmic Dark",
         path: "Cosmic-Dark.ron",
-        wallpaper: "kate-hazen-unleash-your-robot.png",
+        wallpaper: "",
     ),
 )
